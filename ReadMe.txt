@@ -1,0 +1,1 @@
+This is migration script to move the content from on-prem to M365 cloud using sharegate
